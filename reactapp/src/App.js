@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React sena11
+          Learn React sena1
         </a>
       </header>
     </div>
